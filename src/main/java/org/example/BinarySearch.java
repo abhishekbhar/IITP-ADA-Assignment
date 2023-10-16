@@ -5,20 +5,6 @@ import java.util.Scanner;
 
 /*
 *   Author: Abhishek Bhardwaj
-*
-* Problem Statement 1:
-* Binary search is a divide-and-conquer search algorithm. Implement binary search to find the
-* position of an element in a sorted array. If the element does not exist, return -1.
-*
-* Input Format:
-* • First line: 𝑛(1 ≤ 𝑛 ≤ 105) the number of elements in the array.
-* • Second line: ‘n’space-separated integers in increasing order, denoting the elements of the array.
-* • Third line: ‘q’ (1 ≤ q ≤ 100), the number of queries.
-* • Next ‘q’ lines: An integer representing the element to be searched.
-*
-* Output Format:
-* • For each query, return the index of the element in the array or -1 if the element is not present
-*
  */
 
 public class BinarySearch {
@@ -73,5 +59,6 @@ public class BinarySearch {
     }
 
 }
+
 
 
